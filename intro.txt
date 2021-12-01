@@ -1,1 +1,16 @@
 django
+
+-------- administrator powershell ------------
+    1. pip install django
+
+-------- powershell -----------------
+    1. cd .\<path to directory of project> ---> cd . \Desktop\coding_world\Django
+    2. ls
+    3. django-admin 
+    4. django-admin startproject <project-name> ---> django-admin startproject demo1
+    5. ls
+    6. cd .\demo1\
+    7. ls
+    8. python manage.py runserver
+    9. copy-paste the http request to chrome
+    10. success.!
