@@ -1,4 +1,5 @@
 django
+Follow the following steps for each project in django
 
 -------- administrator powershell ------------
     1. pip install django
